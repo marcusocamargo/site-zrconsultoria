@@ -1,3 +1,7 @@
+Feito para Zr Consultoria.
+
+Utilizando REACT, React Router, Styled Components e Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
